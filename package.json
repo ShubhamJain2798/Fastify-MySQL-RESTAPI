@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "fastify": "^3.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "node-datetime": "^2.1.2",
+    "request": "^2.88.2"
+  },
+  "name": "restapi_node",
+  "version": "1.0.0",
+  "description": "rest api for interaction with mysql",
+  "main": "restapi_main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Jain",
+  "license": "ISC"
+}
